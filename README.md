@@ -1,74 +1,53 @@
-Avant Gaea - innovations inspire
+<h1>Avant Gaea - <i>innovations inspire</i></h1>
 
-Our team is made up of entrepreneurs and tech experts who are passionate in committing to build consumer driven products that make lives easier. We wish to deliver a superb all round experience by strategizing innovative digital experiences for small startups to the world’s biggest brands.
-Avant Gaea is based in Singapore with team members from around the world - US, Australia, Latin America, Asia and the UAE. Integrating hybrid work environment and hiring practices, we ensure our operations maximizes work and time efficiency to stay competitive for our global clients.
-
-<br>
-## Web development, Web & Graphic design, UI/UX, Blockchain & Software development and testing 
-
-Developments
-🌱 Website development
-🌱 Landing page development
-🌱 Web3 development (blockchain network, token, NFT)
-🌱 POS development
-🌱 SaaS development
-🌱 UI/UX design and consultancy
-🌱 Web design
-🌱 Graphic design (logo, banner, poster, media story, template post, NFT art, 2D/3D animation)
-🌱 Security compliance and testing
-🌱 Product maintenance and update 
-
-<br>
-### Connect with us
-
-[![website](./img/twitter-light.svg)](https://twitter.com/avantgaea#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/avantgaea#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/company/avantgaea#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/company/avantgaea#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/avantgaea#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/avantgaea#gh-dark-mode-only)
-
-💞️ We are open to hire. Looking to collaborate with many capable young talents..
-
-<br>
-### Languages and Tools
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<br />
-<br />
-
-### 📕 Latest
-
-- 1st HBB community platform for Singapore home based businesses
-
-</details>
-
+Our team is made up of entrepreneurs and tech experts who are passionate in committing to build consumer driven products to make lives easier.
+We wish to deliver a superb all round experience by strategizing innovative digital experiences for small startups to the world’s biggest brands.
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  <summary>Our Stats</summary>
   <img align="left" alt="avantgaealab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=avantgaealab&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
+<br>
+<b>🌱  Web development, Web & Graphic design, UI/UX, Blockchain & Software development and testing</b>
 
-🌐 https://avantgaea.com
-📫 mailto:support@avantgaea.com
-[twitter]: https://twitter.com/avantgaea
-[instagram]: https://instagram.com/avantgaea
-[linkedin]: https://www.linkedin.com/company/avantgaea
+<ul>
+  <li>Website development</li>
+  <li>Landing page development</li>
+  <li>Web3 development (blockchain network, token, NFT)</li>
+  <li>POS development</li>
+  <li>SaaS development</li>
+  <li>UI/UX design and consultancy</li>
+  <li>Web design</li>
+  <li>Graphic design (logo, banner, poster, media story, template post, NFT art, 2D/3D animation)</li>
+  <li>Security compliance and testing</li>
+  <li>Product maintenance and update</li>
+  <li>Digital transformation consultancy</li>
+</ul>
+
+<br>
+<b>Languages and Tools</b>
+<p>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+and more...
+</br>
+<br>
+
+<b>📕 Latest project</b>
+
+- SGHBB: 1st HBB community platform for Singapore home based businesses
+
+<br>
+  <h1>Connect with us</h1>
+<ul>
+<li>🌐 https://avantgaea.com
+<li>📫 support@avantgaea.com
+<li>[twitter]: https://twitter.com/avantgaea
+<li>[instagram]: https://instagram.com/avantgaea
+<li>[linkedin]: https://www.linkedin.com/company/avantgaea
+</ul>
+💞️ We are open to hire. Looking to collaborate with many talented developers.
